@@ -31,9 +31,6 @@ This project demonstrates the construction of sophisticated deep learning models
 - Performance of the classification model is evaluated using accuracy metrics, confusion matrices, and examining specific classification errors through residual plots.
 - The regression model's effectiveness is visualized through scatter plots of predicted vs. actual values and residual distributions, helping identify any patterns or biases in prediction errors.
 
-#### Conclusion
-The project effectively demonstrates the use of deep learning models to solve distinct predictive problems in industrial applications, emphasizing the importance of appropriate data preprocessing, model architecture choices, and robust evaluation methods.
-
 -------------------------------------------------------------
 
 ### Professional Highlights of the Project
